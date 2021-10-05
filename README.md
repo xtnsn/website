@@ -1,2 +1,2 @@
 # website
-web
+i want to try make a website, wow!
